@@ -1,0 +1,75 @@
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\VehiclePartStore.exe.config
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\VehiclePartStore.exe
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\VehiclePartStore.pdb
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.AssemblyReference.cache
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Properties.Resources.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmCategory.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.GenerateResource.cache
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.CoreCompileInputs.cache
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.CopyComplete
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.exe
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.pdb
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmProduct.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\Newtonsoft.Json.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\Newtonsoft.Json.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmCustomer.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmOrderHeader.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmOrderDetail.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\BCrypt.Net-Next.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Buffers.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Memory.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Numerics.Vectors.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\BCrypt.Net-Next.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Buffers.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Memory.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Numerics.Vectors.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.frmLogin.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmMain.resources
+D:\Source Code\VehiclePartStore\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmStatistics.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\VehiclePartStore.exe.config
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\VehiclePartStore.exe
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\VehiclePartStore.pdb
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\BCrypt.Net-Next.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.SqlServer.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\Newtonsoft.Json.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Buffers.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Memory.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Numerics.Vectors.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\BCrypt.Net-Next.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EntityFramework.SqlServer.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\Newtonsoft.Json.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Buffers.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Memory.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Numerics.Vectors.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.AssemblyReference.cache
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.frmLogin.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Properties.Resources.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmCustomer.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmMain.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmOrderDetail.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmOrderHeader.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmProduct.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmCategory.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.Views.frmStatistics.resources
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.GenerateResource.cache
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.CoreCompileInputs.cache
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.csproj.CopyComplete
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.exe
+E:\CSN\VehiclePartStore\VehiclePartStore\obj\Debug\VehiclePartStore.pdb
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EPPlus.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EPPlus.Interfaces.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EPPlus.System.Drawing.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\System.ComponentModel.Annotations.dll
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\EPPlus.xml
+E:\CSN\VehiclePartStore\VehiclePartStore\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
